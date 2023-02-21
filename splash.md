@@ -1,5 +1,5 @@
 # Infrared Camera-Based Toaster
-## Cameron Barrett Torin Schlunk
+## Cameron Barrett & Torin Schlunk
 ## February 2023
 
 ## 1. Overview
